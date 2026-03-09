@@ -4,7 +4,7 @@
 
 1. Open the notebook in Google Colab by clicking the badge below:
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/REPO_PLACEHOLDER/blob/main/Homework.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SIT-COMP-1210/homework-2-template-public/blob/main/Homework.ipynb)
 
 2. Complete all cells in `Homework.ipynb`.
 
